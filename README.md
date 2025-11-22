@@ -51,38 +51,43 @@ BoingEstudioCreativo/
 │   ├── login.css        # Estilos para el formulario de login.
 │   ├── pagina.css       # Estilos principales de la Landing Page.
 │   └── styles.css       # Estilos base o de reinicio (reset).
-├── pagina.html          # 🏠 **PUNTO DE ENTRADA (Landing Page principal).**
+├── pagina.html          # 🏠 PUNTO DE ENTRADA (Landing Page principal).
 └── README.md            # Documentación del proyecto.
-
+```
 ---
-
-⬇️ Instalación y Puesta en Marcha
+## ⬇️ Instalación y Puesta en Marcha
 Sigue estos pasos para obtener una copia local operativa del proyecto:
 
-1. Clonar el repositorio:
-
+1. Clonar repositorio:
+```bash
 git clone [https://github.com/Luisparrach22/BoingEstudioCreativo.git](https://github.com/Luisparrach22/BoingEstudioCreativo.git)
+```
 
-2. Acceder al directorio del proyecto:
-
+---
+2. Acceder al directorio del proyecto:**
+```bash
 cd BoingEstudioCreativo
+```
+---
+3. Ejecutar la aplicación:
 
-Ejecutar la aplicación:
+Simplemente abre el archivo pagina.html en cualquier navegador web.
+Recomendación: Para manejar correctamente las rutas y evitar problemas de CORS o cache, se aconseja utilizar extensiones como "Live Server" de VS Code.
 
-* **Simplemente abre el archivo pagina.html en cualquier navegador web.**
-
--Recomendación: Para manejar correctamente las rutas y evitar problemas de CORS o cache, se aconseja utilizar extensiones como "Live Server" de VS Code.
-
-📞 Información de Contacto
+## 📞 Información de Contacto
 Para consultas comerciales o soporte técnico:
 
 Email: valeriavreyes@gmail.com
-Teléfono / WhatsApp: +58 414-9791191
 
-Redes Sociales:
 
-Plataforma	Enlace
-Instagram	Boing Estudio
-Behance	Portafolio Oficial
+### Redes Sociales
 
-© 2023 Boing Estudio Creativo. Todos los derechos reservados.
+| Plataforma | Cuenta | Enlace |
+| :--- | :--- | :--- |
+| **Instagram** | Boing Estudio | [https://www.instagram.com/boingestudio](https://www.instagram.com/boingestudio) |
+| **Behance** | Portafolio Oficial | [https://www.behance.net/boingestudio](https://www.behance.net/boingestudio) |
+
+
+**Teléfono / WhatsApp: +58 414-9791191**
+---
+**© 2023 Boing Estudio Creativo. Todos los derechos reservados.**

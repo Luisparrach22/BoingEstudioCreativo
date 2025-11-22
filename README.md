@@ -54,6 +54,8 @@ BoingEstudioCreativo/
 ├── pagina.html          # 🏠 **PUNTO DE ENTRADA (Landing Page principal).**
 └── README.md            # Documentación del proyecto.
 
+---
+
 ⬇️ Instalación y Puesta en Marcha
 Sigue estos pasos para obtener una copia local operativa del proyecto:
 
@@ -67,7 +69,7 @@ cd BoingEstudioCreativo
 
 Ejecutar la aplicación:
 
--Simplemente abre el archivo pagina.html en cualquier navegador web.
+* **Simplemente abre el archivo pagina.html en cualquier navegador web.**
 
 -Recomendación: Para manejar correctamente las rutas y evitar problemas de CORS o cache, se aconseja utilizar extensiones como "Live Server" de VS Code.
 
